@@ -27,6 +27,7 @@ setup(name='pyf.dataflow',
           'pyf.transport >= 2.0.1',
           # -*- Extra requirements: -*-
       ],
+      dependency_links=['git+https://github.com/cynepiaadmin/pyf#egg=pyf'],
       entry_points="""
       # -*- Entry points: -*-
       """,
